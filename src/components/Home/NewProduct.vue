@@ -140,7 +140,6 @@
         "
       ></div>
       <img
-        width="440"
         height="auto"
         id="photo"
         style="position: relative"
@@ -234,7 +233,7 @@ export default {
   margin-left: 0px;
 }
 #photo {
-  left: 450px;
+  left: 440px;
   top: -580px;
 }
 #ig {
