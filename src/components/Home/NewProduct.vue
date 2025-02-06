@@ -258,7 +258,7 @@ export default {
   #photo {
     left: 240px;
     top: -480px;
-    width: 320px;
+    width: 290px;
   }
   #swip {
     position: relative;
