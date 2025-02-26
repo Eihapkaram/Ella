@@ -1,1 +1,1 @@
-# Ella
+Ella mart is an online store website for selling and displaying products. It has a responsive design for all screens. It also contains a shopping cart and a list for saving the product for later. It also has purchase and electronic payment pages. It consists of 5 pages.
