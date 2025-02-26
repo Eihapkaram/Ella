@@ -1046,6 +1046,9 @@ div.v-table__wrapper {
   .text-h6 {
     width: 200px;
   }
+  #langhelp1 {
+    left: 150px;
+  }
 }
 
 /*/mobile/*/
