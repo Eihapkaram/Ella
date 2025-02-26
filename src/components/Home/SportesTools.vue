@@ -144,7 +144,7 @@
     <br />
     <div
       class="d-flex"
-      style="gap: 2px; position: relative"
+      style="gap: 0px; position: relative"
       width="80%"
       id="photocon"
     >
