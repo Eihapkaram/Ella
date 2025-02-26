@@ -142,12 +142,7 @@
       </swiper-slide>
     </swiper>
     <br />
-    <div
-      class="d-flex"
-      style="gap: 0px; position: relative"
-      width="80%"
-      id="photocon"
-    >
+    <div class="d-flex" style="position: relative" width="80%" id="photocon">
       <img
         id="im"
         style="width: 50%; height: fit-content; border-radius: 8px"
