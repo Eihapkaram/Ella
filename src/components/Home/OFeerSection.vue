@@ -90,11 +90,11 @@ export default {};
 /*/tablet/*/
 @media (max-width: 991px) {
   #item2 {
-    width: 400px;
+    width: 450px;
     background-color: transparent;
   }
   #item2-img {
-    width: 390px;
+    width: 400px;
   }
   #offer2 {
     display: flex;
